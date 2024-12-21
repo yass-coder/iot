@@ -1,2 +1,1 @@
-
 J’ai développé un système IoT intelligent pour l’irrigation et le contrôle environnemental. Le projet utilise des capteurs (humidité du sol, température) et des actionneurs (pompe, ventilateur, LED) pour automatiser la gestion des ressources. Les données sont affichées en temps réel sur un écran LCD et une interface web responsive, accessible via Wi-Fi. Ce projet combine systèmes embarqués (ESP32, Arduino) et développement web pour une agriculture plus efficace et connectée.
