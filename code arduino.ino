@@ -11,9 +11,8 @@ DHT dht(DHTPIN, DHTTYPE);
 LiquidCrystal_I2C lcd(0x27, 16, 2); // Address 0x27, 16x2 LCD
 
 // Wi-Fi credentials
-const char* ssid = "Flybox_7728";
-const char* password = "G3aYC7dCRG7F"; // No password for this SSID
-
+const char* ssid = ""; //wifi
+const char* password = ""; // your password 
 WiFiServer server(80);
 
 // LED configuration
